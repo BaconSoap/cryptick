@@ -13,8 +13,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
     // MARK: - Constants
     
-    let UPDATE_TIME_SECONDS = 30.0
-    let COMMODITIES = [("BTC", "₿"), ("ETH", "Ξ"), ("XRP", "XRP")]
+    let UPDATE_TIME_SECONDS = 20.0
+    let COMMODITIES = [("LTC", "Ł")]
     
     // MARK: - Class Properties
     
